@@ -32,8 +32,8 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`Sports Lover`*
  
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis3132&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luis3132&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis3132&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luis3132&show_icons=true&theme=dark)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luis3132&theme=dark&background=DD272700&dates=00C4FF&border=E03C8A)](https://git.io/streak-stats)
