@@ -2,7 +2,7 @@
 
 ---
 
-I'm a 23 years old **`Full-Stack Developer`** and a passionate **`Sports Lover`**. I always aim to improve efficiency and User Experience in all my work as a Full-Stack Developer.
+I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Lover`**. I always aim to improve efficiency and User Experience in all my work as a Full-Stack Developer.
 
   🎓 Soon-to-be Software Engineer from the Universidad Industrial de Santander (UIS).
 
