@@ -36,7 +36,7 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`Sports Lover`*
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luis3132&show_icons=true&theme=radical)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duvanjamid&theme=bear&background=DD272700&dates=00C4FF&border=E03C8A)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luis3132&theme=dark&background=DD272700&dates=00C4FF&border=E03C8A)](https://git.io/streak-stats)
 
 ---
 
