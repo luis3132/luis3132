@@ -15,10 +15,11 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
 ### 🚀 Principal Stack
 
 <p>
-<img src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=4EA94B">
-<img src="https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=4EA94B">
+  <img src="https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
 ### 💻 Tech & Tools Preference 💻
