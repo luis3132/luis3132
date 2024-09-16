@@ -1,4 +1,4 @@
-### What's up! I'm Luis, this is my repo and let me introduce me!
+## What's up! I'm Luis, this is my repo and let me introduce me!
 
 ---
 
@@ -8,11 +8,11 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
 
 ---
 
-### Skills and Achievements ✒️
+## Skills and Achievements ✒️
  
 ---
 
-### 🚀 Principal Stack
+## 🚀 Principal Stack
 
 <p>
   <img src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=4EA94B">
@@ -22,7 +22,7 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
-### 💻 Tech & Tools Preference 💻
+## 💻 Tech & Tools Preference 💻
 
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -51,7 +51,7 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
 
 ---
 
-### 🌍 You can reach me here 🌍
+## 🌍 You can reach me here 🌍
 
  <a href=""><img width="120" src="http://img.shields.io/badge/-Portfolio%20Website-ffffff?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEYSURBVDiNxdHNK4RRFMfxzzMzhVJeirKwIZKVyG4WY22nrCwoG%2FkHbGYzO%2FkfLKysZSHFgmxtKCJkNTLEyEtZTGPx3KnpaWSS8q3bOffcc37ndC7%2FTYRldKKCdMJ%2Bxwbm8QJ57GMOV5jFaRD5iXyEHZzjCb24D7bYhEAugwOsNpHciCiNa7wlHiYTE%2FSggHEM4CTEsynxMmAME8GfRg6D4f6Kh%2BDf1HdKBTsaio4xhAscYhH96K4Ty2IF64hqAo%2FoQitmsIV2tKCMEs7QFk4ae6jWBEpYwzAy%2BAh%2BIYzfh6nQoBUj2BSUsjjCe5jkUrzUIj7rdvAs%2Fuo7bIu%2F%2BzYTOtaohIQkVew2iC9EWEJHg8dmKP%2By7g%2F5Ahl%2FO9wcY8OAAAAAAElFTkSuQmCC&logoColor=white"></a>
 </br>
