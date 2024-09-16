@@ -15,8 +15,8 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=4EA94B">
-  <img src = "https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/java-white?style=flat&logo=java&logoColor=4EA94B">
+  <img src = "https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   
