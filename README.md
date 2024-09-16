@@ -12,6 +12,7 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
 
 ### Calumet Team:  (2023 - present)
   I was working in a development group as FullStack using technologies as:
+  
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
