@@ -66,7 +66,7 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luis3132&show_icons=true&theme=dark)
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luis3132&theme=chartreuse-dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=luis3132&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 ---
 
