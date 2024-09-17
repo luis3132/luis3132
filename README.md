@@ -80,7 +80,10 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
 [![Facebook](http://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)][facebook]
 </br>
 
-Write me an email: luisangoco26@gmail.com
+Write me an email: 
+```
+luisangoco26@gmail.com
+```
 
 </br>
 
