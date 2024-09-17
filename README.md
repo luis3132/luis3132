@@ -68,6 +68,8 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=luis3132&theme=chartreuse-dark)](https://git.io/streak-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luis3132)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🌍 You can reach me here 🌍
