@@ -28,6 +28,8 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
     <a href = "http://cormoran.uis.edu.co/eisi/grupo/calumet/#views/gm1/inicio">Group Info</a>
     and also their <a href = "https://github.com/calumet">GitHub</a>
   </p>
+
+### Freelancer 
   
 ---
 
