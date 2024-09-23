@@ -29,7 +29,22 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
     and also their <a href = "https://github.com/calumet">GitHub</a>
   </p>
 
-### Freelancer 
+### Freelancer: (present)
+I'm working with a Small Market as FullStack, developing a simple Storage system to help them managing their Stock, using technologies as:
+
+<p>
+  <img src="https://img.shields.io/badge/java-white?style=flat&logo=java&logoColor=4EA94B">
+  <img src="https://img.shields.io/badge/Springboot-green?style=flat&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000">
+</p>
+
+<p>
+  There is the repo for the <a href = "https://github.com/luis3132/ModarlyFE" >FrontEnd</a> and <a href = "https://github.com/luis3132/MoDarlyBE" >BackEnd</a>
+</p>
   
 ---
 
@@ -42,6 +57,7 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
   <img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-NextJs-fff?style=for-the-badge&logo=next.js&logoColor=000">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
@@ -52,7 +68,6 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
