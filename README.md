@@ -29,7 +29,7 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
     and also their <a href = "https://github.com/calumet">GitHub</a>
   </p>
 
-### Freelancer: (present)
+### Freelancer: (August 2024 - present)
 I'm working with a Small Market as FullStack, developing a simple Storage system to help them managing their Stock, using technologies as:
 
 <p>
