@@ -2,7 +2,7 @@
 
 ---
 
-I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Lover`**. I always aim to improve efficiency and User Experience in all my work as a Full-Stack Developer.
+I'm a 23 years old **`Full-Stack Developer`** and passionate **`💻 Technologie`**, **`🎶 Music`**, **`🏎️ Cars`**. I always aim to improve efficiency and User Experience in all my work as a Full-Stack Developer.
 
   🎓 Soon-to-be System Engineer from the Universidad Industrial de Santander (UIS).
 
@@ -29,7 +29,7 @@ I'm a 23 years old **`Full-Stack Developer`** and a passionate **`🎶Music Love
     and also their <a href = "https://github.com/calumet">GitHub</a>
   </p>
 
-### Freelancer: (August 2024 - present)
+### Freelancer: (August 2024 - February 2025)
 I'm working with a Small Market as FullStack, developing a simple Storage system to help them managing their Stock, using technologies as:
 
 <p>
