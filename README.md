@@ -78,14 +78,16 @@ I'm working with a Small Market as FullStack, developing a simple Storage system
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
  
 ---
-
+<section style="display: flex; width: 100%; align-content: center; justify-content: space-around;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis3132&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luis3132&show_icons=true&theme=dark)
-
-
+</section>
+<section style="display: flex; width: 100%; align-content: center; justify-content: space-around;">
 [![GitHub Streak](https://streak-stats.demolab.com?user=luis3132&theme=chartreuse-dark)](https://git.io/streak-stats)
-
+</section>
+<section style="display: flex; width: 100%; align-content: center; justify-content: space-around;">
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luis3132)](https://github.com/anuraghazra/github-readme-stats)
+</section>
 
 ---
 
