@@ -95,7 +95,6 @@ I was working with a Small Market as FullStack, developing a Storage system to h
 
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
-[![Facebook](http://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)][facebook]
 </br>
 
 Write me an email: 
@@ -108,5 +107,4 @@ luisangoco26@gmail.com
 [website]: 
 [mail]:luisangoco26@gmail.com
 [linkedin]: https://www.linkedin.com/in/luis-andres-gonzalez-corzo-354498238/
-[instagram]: https://www.instagram.com/luisangonzalez26/
-[facebook]: https://www.facebook.com/profile.php?id=100012628874924
+[instagram]: https://www.instagram.com/luisagzc/
