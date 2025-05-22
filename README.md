@@ -30,7 +30,7 @@ I'm a 23 years old **`Full-Stack Developer`** and passionate **`💻 Technologie
   </p>
 
 ### Freelancer: (August 2024 - February 2025)
-I'm working with a Small Market as FullStack, developing a simple Storage system to help them managing their Stock, using technologies as:
+I was working with a Small Market as FullStack, developing a Storage system to help them manage their Stock, billing, sales history, and client records, using technologies as:
 
 <p>
   <img src="https://img.shields.io/badge/java-white?style=flat&logo=java&logoColor=4EA94B">
