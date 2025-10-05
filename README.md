@@ -4,7 +4,7 @@
 
 I'm a 23 years old **`Full-Stack Developer`** and passionate **`💻 Technologie`**, **`🎶 Music`**, **`🏎️ Cars`**. I always aim to improve efficiency and User Experience in all my work as a Full-Stack Developer.
 
-  🎓 Soon-to-be System Engineer from the Universidad Industrial de Santander (UIS).
+  🎓 System Engineer from the Universidad Industrial de Santander (UIS).
 
 ---
 
