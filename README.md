@@ -76,6 +76,8 @@ I was working with a Small Market as FullStack, developing a Storage system to h
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white">
  
 ---
 
