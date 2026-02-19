@@ -78,6 +78,9 @@ I was working with a Small Market as FullStack, developing a Storage system to h
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
 <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/PF4J-Plugin%20Framework-blue?style=flat&logo=java&logoColor=white">
  
 ---
 
