@@ -1,115 +1,202 @@
-# What's up! I'm Luis, this is my repo and let me introduce me!
+# 👋 Hi! I'm Luis Andrés González
+
+I'm a **Full Stack Developer** with **2+ years of experience** building **web and desktop applications** using modern technologies like **Java, SpringBoot, React, Next.js and Rust**.
+
+I enjoy designing systems that are **efficient, scalable and easy to use**, always focusing on **clean architecture and great user experience**.
+
+💻 Passionate about **Technology**
+🎵 Music lover
+🏎️ Car enthusiast
+
+🎓 **Systems Engineer — Universidad Industrial de Santander**
 
 ---
 
-I'm a 23 years old **`Full-Stack Developer`** and passionate **`💻 Technologie`**, **`🎶 Music`**, **`🏎️ Cars`**. I always aim to improve efficiency and User Experience in all my work as a Full-Stack Developer.
+# 🚀 About Me
 
-  🎓 System Engineer from the Universidad Industrial de Santander (UIS).
+* 🔧 Full-Stack developer with experience in **production systems used by real teams**
+* 🧠 Strong **self-learner** with a problem-solving mindset
+* ⚙️ Experience designing **REST APIs, modular systems and plugins**
+* 🦀 Rust enthusiast building **native integrations for Tauri apps**
+* 🧩 Interested in **software architecture, system design and developer tooling**
 
 ---
 
-## Skills and Achievements ✒️
+# 💼 Professional Experience
 
-### Calumet Team:  (2023 - present)
-  I'm working in a development group as FullStack using technologies as:
-  
-  <p>
-    <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-    <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/java-white?style=flat&logo=java&logoColor=4EA94B">
-    <img src = "https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-    <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-    <img src = "https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black">
-  </p>
+## CALUMET Development Group — UIS
 
-  <p>
-    <a href = "http://cormoran.uis.edu.co/eisi/grupo/calumet/#views/gm1/inicio">Group Info</a>
-    and also their <a href = "https://github.com/calumet">GitHub</a>
-  </p>
+**Full Stack Developer**
+📅 Jul 2023 — Aug 2025
 
-### Freelancer: (August 2024 - February 2025)
-I was working with a Small Market as FullStack, developing a Storage system to help them manage their Stock, billing, sales history, and client records, using technologies as:
+Worked on **COMA**, an institutional platform used by **hundreds of professors and students**.
+
+**Key contributions**
+
+* Developed **10+ frontend and backend modules**
+* Built interactive UIs with **HTML, CSS, JavaScript and Bootstrap**
+* Implemented backend logic using **Java, JSP and MySQL**
+* Participated in **SCRUM development cycles**
+* Helped redesign critical production modules
+* Deployed services using **Docker and NGINX**
+
+Tech used:
 
 <p>
-  <img src="https://img.shields.io/badge/java-white?style=flat&logo=java&logoColor=4EA94B">
-  <img src="https://img.shields.io/badge/Springboot-green?style=flat&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000">
+<img src="https://img.shields.io/badge/Java-white?style=flat&logo=java&logoColor=4EA94B">
+<img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white">
 </p>
+
+---
+
+## Freelance Software Engineer
+
+📅 Aug 2024 — Mar 2025
+
+Designed and developed a **full-stack inventory management system** for a clothing store.
+
+**Features**
+
+* Inventory and stock management
+* Billing and sales tracking
+* Client database
+* Touch-friendly interface for POS environments
+
+Tech used:
 
 <p>
-  There is the repo for the <a href = "https://github.com/luis3132/ModarlyFE" >FrontEnd</a> and <a href = "https://github.com/luis3132/MoDarlyBE" >BackEnd</a>
+<img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
-  
+
+Frontend repo:
+[https://github.com/luis3132/ModarlyFE](https://github.com/luis3132/ModarlyFE)
+
+Backend repo:
+[https://github.com/luis3132/MoDarlyBE](https://github.com/luis3132/MoDarlyBE)
+
 ---
 
-## 🚀 Principal Stack
+# 🧪 Personal Projects
+
+## NeoGestify
+
+Desktop management platform built with **Rust + Tauri**
+
+Features:
+
+* Modular architecture with **plugin system**
+* **Role-based workflows**
+* Desktop application with **native Rust backend**
+* **Device licensing system**
+* PostgreSQL + Docker infrastructure
+
+Tech stack:
+
+* Rust
+* Tauri
+* TypeScript
+* Vite
+* PostgreSQL
+* Docker
+
+---
+
+## tauri-plugin-thermal-printer
+
+Open-source **Tauri plugin written in Rust** for integrating **thermal printers via serial ports**.
+
+Features:
+
+* Serial port enumeration
+* ESC/POS printing support
+* Raw byte transmission
+* Template rendering
+* Designed for **POS and kiosk applications**
+
+---
+
+## ZELEV
+
+Full-stack web application for managing **orders and sales for a handbag company**.
+
+Features:
+
+* Role-based authentication (JWT + cookies)
+* Sales history
+* Reports and statistics
+* Order management
+
+Stack:
+
+* SpringBoot
+* Next.js
+* React
+* TypeScript
+* MySQL
+* Docker
+
+---
+
+# 🧠 Main Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=4EA94B">
-  <img src="https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/-NextJs-fff?style=for-the-badge&logo=next.js&logoColor=000">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=4EA94B">
+<img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-## 💻 Tech & Tools Preference 💻
-
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
-<img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/PF4J-Plugin%20Framework-blue?style=flat&logo=java&logoColor=white">
- 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis3132&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luis3132&show_icons=true&theme=dark)
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=luis3132&theme=chartreuse-dark)](https://git.io/streak-stats)
+# 🛠 Tech & Tools
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luis3132)](https://github.com/anuraghazra/github-readme-stats)
+Java • Rust • Python • C/C++
+React • Next.js • Node.js • SpringBoot
+Tauri • TailwindCSS • Vite
+
+Tools:
+
+Git • Docker • Kubernetes • NGINX
+Postman • Linux • JupyterLab
+RabbitMQ • DBeaver • Jira
 
 ---
 
-## 🌍 You can reach me here 🌍
+# 📊 GitHub Stats
 
- <!--<a href=""><img width="120" src="?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEYSURBVDiNxdHNK4RRFMfxzzMzhVJeirKwIZKVyG4WY22nrCwoG%2FkHbGYzO%2FkfLKysZSHFgmxtKCJkNTLEyEtZTGPx3KnpaWSS8q3bOffcc37ndC7%2FTYRldKKCdMJ%2Bxwbm8QJ57GMOV5jFaRD5iXyEHZzjCb24D7bYhEAugwOsNpHciCiNa7wlHiYTE%2FSggHEM4CTEsynxMmAME8GfRg6D4f6Kh%2BDf1HdKBTsaio4xhAscYhH96K4Ty2IF64hqAo%2FoQitmsIV2tKCMEs7QFk4ae6jWBEpYwzAy%2BAh%2BIYzfh6nQoBUj2BSUsjjCe5jkUrzUIj7rdvAs%2Fuo7bIu%2F%2BzYTOtaohIQkVew2iC9EWEJHg8dmKP%2By7g%2F5Ahl%2FO9wcY8OAAAAAAElFTkSuQmCC&logoColor=white"></a>
-</br>-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis3132\&show_icons=true\&theme=dark)
 
-[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
-[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
-</br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luis3132\&show_icons=true\&theme=dark)
 
-Write me an email: 
+![GitHub Streak](https://streak-stats.demolab.com?user=luis3132\&theme=chartreuse-dark)
+
+---
+
+# 🌎 Connect With Me
+
+📧 **Email**
+
 ```
 luisangoco26@gmail.com
 ```
 
-</br>
+💼 LinkedIn
+[https://www.linkedin.com/in/luis-andres-gonzalez-corzo-354498238/](https://www.linkedin.com/in/luis-andres-gonzalez-corzo-354498238/)
 
-[website]: 
-[mail]:luisangoco26@gmail.com
-[linkedin]: https://www.linkedin.com/in/luis-andres-gonzalez-corzo-354498238/
-[instagram]: https://www.instagram.com/luisagzc/
+📷 Instagram
+[https://www.instagram.com/luisagzc/](https://www.instagram.com/luisagzc/)
+
