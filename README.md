@@ -75,9 +75,6 @@ Diseñé y desarrollé un **sistema de gestión de inventario** full‑stack par
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-🔗 [Repositorio Frontend](https://github.com/luis3132/ModarlyFE)  
-🔗 [Repositorio Backend](https://github.com/luis3132/MoDarlyBE)
-
 ---
 
 ## 🧪 Proyectos personales
