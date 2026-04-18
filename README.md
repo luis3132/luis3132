@@ -169,6 +169,10 @@ Aplicación web full‑stack para la gestión de pedidos y ventas de una empresa
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luis3132" alt="WakaTime" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luis3132&theme=onedark&column=7&no-frame=true&no-bg=true" />
 </p>
 
