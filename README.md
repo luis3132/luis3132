@@ -12,8 +12,9 @@
 
 ## 🧑‍💻 Sobre mí
 
-🔹 **Full Stack Developer** con **2+ años de experiencia** construyendo aplicaciones web y de escritorio con tecnologías modernas como **Java, SpringBoot, React, Next.js y Rust**.  
+🔹 **Full Stack Developer** con **2+ años de experiencia** construyendo aplicaciones web, de escritorio y móviles con **Java, SpringBoot, React, Next.js, Rust y Kotlin**.  
 🔹 Me encanta diseñar sistemas **eficientes, escalables y fáciles de usar**, siempre enfocado en **arquitectura limpia y experiencia de usuario**.  
+🔹 Autor de **librerías open-source** con más de **2.300 descargas** en el ecosistema Tauri y React.  
 🔹 **Apasionado** por la tecnología, la música 🎵 y los autos 🏎️.  
 🔹 **Ingeniero de Sistemas** — Universidad Industrial de Santander.
 
@@ -21,14 +22,40 @@
 
 ## 🚀 Lo que estoy haciendo ahora
 
-- 🔭 Trabajando en **NeoGestify** (plataforma de gestión de escritorio con Rust + Tauri)  
-- 🌱 Aprendiendo **arquitectura de plugins y sistemas embebidos**  
-- 🦀 Creando **plugins open-source para Tauri**  
+- 🪪 Construyendo una **EUDI Wallet** (identidad digital europea) para Android con **Tauri + Kotlin**  
+- 🖥️ Desarrollando **Control Code**, un centro de mando para agentes de IA de código  
+- 🔭 Ampliando el ecosistema **NeoGestify** (launcher Tauri + marketplace de plugins)  
+- 🦀 Manteniendo mis **plugins y librerías open-source**  
 - 💬 Abierto a colaborar en proyectos de **Rust, Spring Boot o Next.js**
 
 ---
 
 ## 💼 Experiencia profesional
+
+### 🔹 **Corporación Avance**  
+**Ingeniero de Software** · 📅 Ene 2026 — Actualidad
+
+Desarrollo de una **billetera de identidad digital europea (EUDI Wallet)** para Android siguiendo el marco **ARF** de la Unión Europea.
+
+#### ✅ Logros clave
+- App Android construida con **React, TypeScript, Tauri y Kotlin**  
+- Protocolos **OpenID4VCI** y **OID4VP** para emisión y presentación de credenciales verificables (PID, mDL)  
+- Autenticación **biométrica y por PIN** con almacenamiento seguro vía **Tauri Stronghold**  
+- Infraestructura completa con **Docker Compose**: Wallet Provider, Keycloak (PID Issuer), Trusted List Provider y Verifier tras **HAProxy**  
+- **Plugin propio de Tauri en Rust** con puente nativo a Kotlin y **25+ comandos** para emisión remota y presentación por proximidad (QR/NFC)
+
+#### 🛠️ Tecnologías
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
 
 ### 🔹 **CALUMET Development Group — UIS**  
 **Full Stack Developer** · 📅 Jul 2023 — Ago 2025
@@ -77,31 +104,81 @@ Diseñé y desarrollé un **sistema de gestión de inventario** full‑stack par
 
 ---
 
-## 🧪 Proyectos personales
+## 📦 Librerías open-source publicadas
 
-### ⚙️ **NeoGestify**
-Plataforma de gestión de escritorio con **Rust + Tauri**.
+### 🖨️ **tauri-plugin-thermal-printer** · 🔥 1.700+ descargas
+Plugin open‑source para **Tauri v2** escrito en Rust que integra **impresoras térmicas por puerto serie**.
 
-- Arquitectura modular con sistema de **plugins**  
-- Flujos de trabajo basados en **roles**  
-- Aplicación de escritorio con backend nativo en **Rust**  
-- Sistema de licencias por dispositivo  
-- Infraestructura con **PostgreSQL + Docker**
+- Enumeración de puertos serie  
+- Soporte completo de comandos **ESC/POS**  
+- Transmisión de bytes en crudo y renderizado de plantillas  
+- Compatible con **escritorio y Android**  
+- Ideal para **aplicaciones POS y kioskos**
 
-🛠️ **Stack:** Rust · Tauri · TypeScript · Vite · PostgreSQL · Docker
+🛠️ **Stack:** Rust · Tauri v2 · SerialPort
 
 ---
 
-### 🖨️ **tauri-plugin-thermal-printers**
-Plugin open‑source para **Tauri** escrito en Rust que permite integración con **impresoras térmicas vía puerto serie**.
+### 🎨 **neogestify-ui-components** · ⭐ 600+ descargas
+Librería de componentes **React + TailwindCSS 4** enfocada en normalización y consistencia de interfaces entre proyectos.
 
-- Enumeración de puertos serie  
-- Soporte para comandos ESC/POS  
-- Transmisión de bytes en crudo  
-- Renderizado de plantillas  
-- Ideal para **aplicaciones POS y kioskos**
+- **25+ componentes**: formularios, tablas, modales, navegación, calendario y date picker  
+- Sistema de **temas claro/oscuro** y colores configurables por variables CSS (sin archivo de configuración)  
+- **VenueMap**: editor y visor interactivo de mapas de espacios con soporte táctil (pinch‑zoom y paneo)  
+- Colección de **80+ iconos SVG** y animaciones configurables  
 
-🛠️ **Stack:** Rust · Tauri · SerialPort
+🛠️ **Stack:** React · TypeScript · TailwindCSS 4 · SweetAlert2
+
+---
+
+## 🧪 Proyectos personales
+
+### ⚙️ **Ecosistema NeoGestify**
+Plataforma de gestión empresarial **modular basada en plugins**, con launcher en **Rust + Tauri** y marketplace propio.
+
+- **Launcher** de escritorio y móvil que instala, descifra y ejecuta plugins de UI (Vite) y de lógica (**PF4J**)  
+- **Marketplace** en SpringBoot 4 + Next.js 16: suscripciones, versionado y entrega cifrada con **MinIO**  
+- Módulos de negocio como plugins independientes: **Inventario, Parqueadero y Restaurante**  
+- Cifrado **AES‑256‑GCM** ligado al equipo y licenciamiento por dispositivo  
+- Servidor REST local para credenciales, licencias e impresión térmica en red  
+
+🛠️ **Stack:** Rust · Tauri · TypeScript · Java · SpringBoot · PF4J · PostgreSQL · MinIO · Docker
+
+---
+
+### 🖥️ **Control Code**
+Centro de mando para **agentes de IA de código** (Claude Code, Gemini CLI, Codex, OpenCode, Kimi Code).
+
+- Terminales reales (**pty**) en pestañas tipo navegador para Linux, macOS y Windows  
+- **Ventanas desprendibles**: la pty se migra entre ventanas nativas sin reiniciar el proceso  
+- **Workspaces persistentes** que restauran carpetas, agentes y scrollback  
+- Gestor de **skills por symlinks** efímeros + marketplace de repositorios  
+- **CLI** para que los propios agentes orquesten sus pestañas  
+
+🛠️ **Stack:** Rust · Tauri v2 · React 19 · TypeScript · Zustand · xterm.js
+
+---
+
+### 📱 **WebAnywhere**
+Transmite la pantalla del móvil a la pantalla de un coche **sin instalar nada en el vehículo**.
+
+- Captura con **MediaProjection** y codificación H.264 por hardware con **MediaCodec**  
+- Servidor **Ktor** embebido que sirve datos y reproductor en la red local  
+- Segmentos **fMP4 por Media Source Extensions** (con perfil MJPEG de reserva) para WebViews antiguos  
+- Lanzador SPA en React + Vite desplegado en GitHub Pages  
+
+🛠️ **Stack:** Kotlin · Jetpack Compose · Ktor · React · Vite · TailwindCSS
+
+---
+
+### 📂 **fileRepository**
+Servicio open‑source de subida y alojamiento de archivos con **Next.js** y sus API routes.
+
+- Subida, listado y descarga directa desde el navegador  
+- Compartición mediante enlaces directos  
+- Interfaz minimalista  
+
+🛠️ **Stack:** Next.js · React · TypeScript
 
 ---
 
@@ -127,6 +204,7 @@ Aplicación web full‑stack para la gestión de pedidos y ventas de una empresa
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -142,7 +220,10 @@ Aplicación web full‑stack para la gestión de pedidos y ventas de una empresa
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
